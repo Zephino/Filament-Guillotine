@@ -23,7 +23,7 @@ Hardware and bought parts will be listed here as they are confirmed.
 
 | Part | Qty | Notes / link |
 |------|-----|--------------|
-| GA1024-N20-S0310D geared motor | 1 | [AliExpress](https://www.aliexpress.us/item/3256809224168887.html) · [datasheet](docs/GA1024-N20-S0310D.png) |
+| KM-1020FN20-103-05185 geared motor | 1 | [AliExpress](https://www.aliexpress.us/item/3256809224168887.html) · [datasheet](docs/KM-1020FN20-103-05185.png) |
 | Bolt D2.5 × M2 × 20 mm | 1 | |
 | Bolt D2.5 × M2 × 25 mm | 1 | |
 | #4 scalpel blade | 1 | AliExpress |
@@ -32,7 +32,7 @@ Hardware and bought parts will be listed here as they are confirmed.
 
 N20-style micro DC geared motor with D-shaft output.
 
-![GA1024-N20-S0310D datasheet](docs/GA1024-N20-S0310D.png)
+![KM-1020FN20-103-05185 datasheet](docs/KM-1020FN20-103-05185.png)
 
 ## Status
 
