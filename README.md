@@ -2,6 +2,8 @@
 
 A filament cutter designed to work with any 3D printer print head. It cuts filament cleanly so toolheads and printers can share or swap filament more reliably.
 
+**Discord:** [https://discord.gg/fSPVZBNUWa](https://discord.gg/fSPVZBNUWa)
+
 ## Files
 
 | Folder | Contents |
