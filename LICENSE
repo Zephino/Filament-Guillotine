@@ -1,8 +1,15 @@
 Creative Commons Attribution-ShareAlike 4.0 International
 
 Copyright (c) Zephino
+Copyright (c) jrlomas (KiCad schematics, PCB design, and related electronics)
 
-This work (including designs, CAD/STEP/STL files, documentation, and associated materials in this repository) is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+This work (including designs, CAD/STEP/STL files, documentation, KiCad/PCB files,
+and associated materials in this repository) is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License.
+
+Credits / authorship:
+- Zephino — mechanical design, overall project, and this repository
+- jrlomas — KiCad schematics, PCB layout, and related electronics work
 
 You are free to:
 
@@ -11,7 +18,8 @@ You are free to:
 
 Under the following terms:
 
-- Attribution — You must give appropriate credit to Zephino, provide a link to this repository
+- Attribution — You must give appropriate credit to Zephino and, for any use of the
+  KiCad/PCB/electronics work, to jrlomas. Provide a link to this repository
   (https://github.com/Zephino/Filament-Guillotine), and indicate if changes were made.
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your
   contributions under the same license as the original (CC BY-SA 4.0 or a compatible
