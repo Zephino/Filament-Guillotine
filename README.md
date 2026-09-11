@@ -42,20 +42,20 @@ CAD and STL files are in the repo. Bill of materials is still being collected.
 
 ## License
 
-This project uses **strong open / copyleft licenses** by file type. Credit is required, and derivatives must stay open source.
+Licensing varies by material. Attribution is required, and derivative works must remain open source under the applicable license.
 
 | Material | License |
 |----------|---------|
-| Mechanical CAD, STL/STEP, KiCad/PCB | [CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt) (strongly reciprocal) |
+| Mechanical CAD, STL/STEP, KiCad/PCB | [CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt) |
 | Documentation and images | [CC-BY-SA-4.0](LICENSES/CC-BY-SA-4.0.txt) |
 | Scripts (e.g. `kicad/generate_schematic.py`) | [GPL-3.0-or-later](LICENSES/GPL-3.0-or-later.txt) |
 
-In plain terms:
+Summary:
 
-1. **Credit is required.** Link back to [this repository](https://github.com/Zephino/Filament-Guillotine).
-   - Credit **Zephino** for the mechanical design.
-   - Credit **jrlomas** for the KiCad schematics, PCB design, and related electronics.
-2. **Reciprocal / share-alike.** If you use or build on this work in another project, that project must also be released as open source under the matching license above. Closed-source / proprietary reuse is not allowed.
-3. **Commercial use is allowed** only if attribution and reciprocal terms are both followed.
+1. **Attribution.** Credit the authors and link to [this repository](https://github.com/Zephino/Filament-Guillotine).
+   - **Zephino** — mechanical design
+   - **jrlomas** — KiCad schematics, PCB design, and related electronics
+2. **Share-alike.** Projects that use or build on this work must also be released as open source under the matching license above.
+3. **Commercial use** is permitted when attribution and share-alike terms are met.
 
-See [`LICENSE`](LICENSE) and [`AUTHORS`](AUTHORS) for details.
+See [`LICENSE`](LICENSE) and [`AUTHORS`](AUTHORS) for full terms.
