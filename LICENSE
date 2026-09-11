@@ -1,35 +1,57 @@
-Creative Commons Attribution-ShareAlike 4.0 International
+Filament Guillotine — License Notice
+====================================
 
-Copyright (c) Zephino (mechanical design)
-Copyright (c) jrlomas (KiCad schematics, PCB design, and related electronics)
+This repository uses different licenses by file type. Attribution is always
+required. Derivative works must remain open source under the applicable
+share-alike / reciprocal terms.
 
-This work (including designs, CAD/STEP/STL files, documentation, KiCad/PCB files,
-and associated materials in this repository) is licensed under the Creative Commons
-Attribution-ShareAlike 4.0 International License.
+Authors
+-------
+See AUTHORS.
 
-Credits / authorship:
+1. Hardware designs (CERN-OHL-S-2.0)
+-----------------------------------
+Covered Source includes mechanical CAD and electronics hardware design files,
+for example:
+
+- Fusion 360 / STEP / STL and other mechanical design files
+- KiCad projects, schematics, PCB layouts, BOMs, and related electronics design files
+
+These are licensed under the CERN Open Hardware Licence Version 2 -
+Strongly Reciprocal (CERN-OHL-S-2.0).
+
+Full text: LICENSES/CERN-OHL-S-2.0.txt
+SPDX: CERN-OHL-S-2.0
+
+Credits for Covered Source:
 - Zephino — mechanical design
-- jrlomas — KiCad schematics, PCB layout, and related electronics work
+- jrlomas — KiCad schematics, PCB layout, and related electronics
 
-You are free to:
+2. Documentation and media (CC-BY-SA-4.0)
+----------------------------------------
+README files, docs/, images, and other documentation/media are licensed under
+Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0).
 
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+Full text: LICENSES/CC-BY-SA-4.0.txt
+SPDX: CC-BY-SA-4.0
 
-Under the following terms:
+3. Software / scripts (GPL-3.0-or-later)
+---------------------------------------
+Python and other software scripts in this repository (for example
+kicad/generate_schematic.py) are licensed under the GNU General Public License
+v3.0 or later.
 
-- Attribution — You must give appropriate credit: Zephino for mechanical design; jrlomas for
-  KiCad/PCB/electronics work. Provide a link to this repository
-  (https://github.com/Zephino/Filament-Guillotine), and indicate if changes were made.
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your
-  contributions under the same license as the original (CC BY-SA 4.0 or a compatible
-  share-alike license). Derivative projects must remain open source.
+Full text: LICENSES/GPL-3.0-or-later.txt
+SPDX: GPL-3.0-or-later
 
-No additional restrictions — You may not apply legal terms or technological measures that
-legally restrict others from doing anything the license permits.
+Attribution
+-----------
+Provide appropriate credit and a link to:
+https://github.com/Zephino/Filament-Guillotine
 
-Full legal code:
-https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- Credit Zephino for mechanical design.
+- Credit jrlomas for KiCad / PCB / electronics work.
 
-Human-readable summary:
-https://creativecommons.org/licenses/by-sa/4.0/
+In plain terms: you may use and build on this project, including commercially,
+but you must give credit and keep derivative projects open source under the
+matching license above.

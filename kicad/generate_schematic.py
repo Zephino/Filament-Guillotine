@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) jrlomas
 """Generate the guillotine controller schematic with SKiDL/KiCad 10 libraries.
 
 The checked-in .kicad_sch is the deliverable.  This source is kept so that

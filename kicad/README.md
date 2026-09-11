@@ -77,3 +77,9 @@ exported KiCad netlist.
 
 LCSC identifiers are a sourcing snapshot dated 2026-09-10. Recheck price,
 stock, lifecycle, and exact parametric suitability before ordering.
+
+## License
+
+KiCad/PCB design files in this folder are **CERN-OHL-S-2.0** (credit: **jrlomas**).
+`generate_schematic.py` is **GPL-3.0-or-later**. See the repository root
+[`LICENSE`](../LICENSE) and [`AUTHORS`](../AUTHORS).
