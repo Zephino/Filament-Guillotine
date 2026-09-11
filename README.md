@@ -39,3 +39,15 @@ N20-style micro DC geared motor with D-shaft output.
 ## Status
 
 CAD and STL files are in the repo. Bill of materials is still being collected.
+
+## License
+
+This project is licensed under **[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)**.
+
+In plain terms:
+
+1. **Credit is required.** If you use this project—its designs, files, documentation, or a modified/adapted version of them—you must give clear credit to **Zephino** and link back to this repository: [https://github.com/Zephino/Filament-Guillotine](https://github.com/Zephino/Filament-Guillotine).
+2. **Share-alike (copyleft).** If you use this work in another project, that project must also be released as open source under the same license (CC BY-SA 4.0) or a compatible share-alike license. You may not take this design closed-source or proprietary.
+3. **Commercial use is allowed** only if attribution and share-alike are both followed.
+
+See [`LICENSE`](LICENSE) for the full legal terms.
